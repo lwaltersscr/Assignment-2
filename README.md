@@ -15,8 +15,7 @@ This program simulates an order platform for a restaurant (same as Assignment 1)
   - Prompt users to select gas type and input gallons.
   - Calculate total cost based on the selected gas type and gallons.
   - Allow users to choose payment method.
-*Shortcuts used:*
-  - Uses Setprecision() to keep the decimals to a correct limit.
+  - *Shortcuts used:* Uses Setprecision() to keep the decimals to a correct limit.
   - Uses Showpoint() to ensure trailing zeros appear when neccesary.
   - Uses Setfill() to create the menu.
   - Uses left/right manipulators to adjust the menu text.
@@ -26,8 +25,7 @@ This program simulates an order platform for a restaurant (same as Assignment 1)
   - Prompt users to select a meal and a dessert.
   - Calculate subtotal and add sales tax.
   - Display the total cost of the order.
-*Shortcuts used:*
-  - Uses Setprecision() to keep the decimals to a correct limit.
+  - *Shortcuts used:* Uses Setprecision() to keep the decimals to a correct limit.
   - Uses Showpoint() to ensure trailing zeros appear when neccesary.
   - Uses Setfill() to create the menu.
   - Uses left/right manipulators to adjust the menu text.
